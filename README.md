@@ -1,2 +1,3 @@
-# vagrant-configs
+# Vagrant Configs
+
 My vagrant configs
